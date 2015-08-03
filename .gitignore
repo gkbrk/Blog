@@ -1,2 +1,4 @@
 *.pyc
+blog.sqlite
+sessions/
 env/
